@@ -93,4 +93,4 @@ SQL aggregation (`SUM`, `COUNT`), `GROUP BY` and `ORDER BY`, `CASE WHEN` logic, 
 
 ## Author
 **Shafiq Shaikh** – Mumbai, India
-[LinkedIn link] | [Email]
+
